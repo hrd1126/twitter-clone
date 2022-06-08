@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "default": "twitter-clone-b700f",
+    "twitter-clone": "twitter-clone-b700f"
+  },
+  "targets": {}
+}
